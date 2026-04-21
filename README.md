@@ -2,6 +2,9 @@
 
 Sales Performance Analysis Dashboard (Power BI)
 
+🔗 Live Dashboard
+View the interactive Power BI report here: https://app.powerbi.com/view?r=eyJrIjoiMDViNjM2ZWEtNzEwNC00ODIyLTg5MDItYjUxNWQ1N2VjMjI5IiwidCI6ImU2YTU4ZDFjLWE5MzktNDcxNS04MzRjLWNlOGY2ZDQ5NjUzMCIsImMiOjEwfQ%3D%3D
+
 This project is a fully developed Power BI solution focused on analyzing sales data through interactive dashboards. It transforms raw data into structured visuals to support performance tracking and reporting.
 
 The project includes data preparation, transformation, and modeling within Power BI, followed by the creation of an interactive dashboard with key performance indicators and visual analytics.
