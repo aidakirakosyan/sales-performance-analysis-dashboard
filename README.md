@@ -2,7 +2,8 @@
 
 Sales Performance Analysis Dashboard (Power BI)
 
-🔗 [Live Dashboard](View the interactive Power BI report here: https://app.powerbi.com/view?r=eyJrIjoiMDViNjM2ZWEtNzEwNC00ODIyLTg5MDItYjUxNWQ1N2VjMjI5IiwidCI6ImU2YTU4ZDFjLWE5MzktNDcxNS04MzRjLWNlOGY2ZDQ5NjUzMCIsImMiOjEwfQ%3D%3D)
+🔗 Live Dashboard
+[View the interactive Power BI report here:](https://app.powerbi.com/view?r=eyJrIjoiMDViNjM2ZWEtNzEwNC00ODIyLTg5MDItYjUxNWQ1N2VjMjI5IiwidCI6ImU2YTU4ZDFjLWE5MzktNDcxNS04MzRjLWNlOGY2ZDQ5NjUzMCIsImMiOjEwfQ%3D%3D)
 
 This project is a fully developed Power BI solution focused on analyzing sales data through interactive dashboards. It transforms raw data into structured visuals to support performance tracking and reporting.
 
@@ -20,7 +21,7 @@ This project demonstrates end-to-end Power BI skills, including data preparation
 
  📊 Dashboard Preview
 
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.png)
 ![Product analysis](screenshots/Product_analysis.png)
 ![Sales comparison](screenshots/Sales_comparison.png)
 
